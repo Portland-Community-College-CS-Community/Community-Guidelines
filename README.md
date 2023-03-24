@@ -10,7 +10,7 @@ As well as the Core COC of PCC, the server will have a COC related to the comput
 
 Failure to follow the COC of PCC and the extended rules of this server will result in engagement from PCC faculty and will be treated as an on-campus incident. 
 
-1) It is ==**ok**== to have a technical disagreement with a fellow student. It is **not ok** to degrade someone or their work. 
+1) It is **ok** to have a technical disagreement with a fellow student. It is **not ok** to degrade someone or their work. 
 
 2) Slurs used **in any context** are prohibited.
 
