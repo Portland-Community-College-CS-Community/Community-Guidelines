@@ -4,9 +4,7 @@
  PCC Computer Science Dept. Discord Community Guidelines
 
 
-The PCC Computer Science Department Discord Server is an extension of Portland Community College. As such, the Core COC of PCC extends to this Discord server. You can view this here 
-
-[https://www.pcc.edu/student-conduct/conduct/student-code-of-conduct-policy-and-procedures/]
+The PCC Computer Science Department Discord Server is an extension of Portland Community College. As such, the Core COC of PCC extends to this Discord server. You can view this here: [Code of Conduct](https://www.pcc.edu/student-conduct/conduct/student-code-of-conduct-policy-and-procedures/)
 
 As well as the Core COC of PCC, the server will have a COC related to the computer science department's needs to keep this platform a positive learning environment. 
 
@@ -26,7 +24,7 @@ Failure to follow the COC of PCC and the extended rules of this server will resu
 
 7) Be mindful of the channels you are posting and keep conversations on-topic. (Ex. #off-topic, #labs, #assignments, etc.)
 
-8) Use common sense when asking questions about assignments. Refer to rules on plagiarism and cheating here [    ]
+8) Use common sense when asking questions about assignments. Refer to rules on academic misconduct [here](https://www.pcc.edu/student-conduct/conduct/student-code-of-conduct-policy-and-procedures/). 
 
 9) If you have nothing nice to say, don’t say it at all.
 
